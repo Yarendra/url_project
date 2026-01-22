@@ -3,6 +3,6 @@
         "url":"https://fleetgo.axilivo.com"
     },
     "golenspurchase":{
-        "url":"https://purchase.golens.in"
+        "url":"https://purchase.golens.in/api"
     }
 }
