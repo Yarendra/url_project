@@ -1,5 +1,8 @@
 {
     "fleetgo":{
         "url":"https://fleetgo.axilivo.com"
+    },
+    "golenspurchase":{
+        "url":"https://purchase.golens.in"
     }
 }
